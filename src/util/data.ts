@@ -42,7 +42,7 @@ export const projects = [
         category: "mern",
         githubUrl:
             "https://github.com/AbdullahSeraj/Full-Stack-E-Commerce-Products-New",
-        website: "https://full-stack-e-commerce-products.web.app",
+        website: "https://e-commerce-products-front.onrender.com/",
     },
 
     // {
