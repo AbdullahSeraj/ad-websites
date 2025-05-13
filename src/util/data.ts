@@ -45,14 +45,14 @@ export const projects = [
         website: "https://full-stack-e-commerce-products.web.app",
     },
 
-    {
-        title: "Clothes Ecommerce Website",
-        text: "Shopping a clothes e-commerce website with React.js allows you to create a dynamic and user-friendly online shopping experience for your customers.",
-        img: "/imgs/8.jpg",
-        category: "react",
-        githubUrl: "https://github.com/AbdullahSeraj/Clothes-Ecommerce-Website",
-        website: "https://clothes-ecommerce-websit-5e9eb.web.app/",
-    },
+    // {
+    //     title: "Clothes Ecommerce Website",
+    //     text: "Shopping a clothes e-commerce website with React.js allows you to create a dynamic and user-friendly online shopping experience for your customers.",
+    //     img: "/imgs/8.jpg",
+    //     category: "react",
+    //     githubUrl: "https://github.com/AbdullahSeraj/Clothes-Ecommerce-Website",
+    //     website: "https://clothes-ecommerce-websit-5e9eb.web.app/",
+    // },
     {
         title: "Food Delivery App",
         text: "It is a website built using React that allows you to buy food, browse food, and prepare food.",
