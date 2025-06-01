@@ -10,7 +10,7 @@ export const projects = [
     {
         title: "Property Management & General Maintenance",
         text: "Emergencies don’t wait. Our team is available 24/7 to resolve urgent maintenance issues promptly and professionally.",
-        img: "/imgs/20.png",
+        img: "/imgs/20.jpg",
         category: "js",
         githubUrl: "https://github.com/AbdullahSeraj",
         website: "https://property-management-uv0v.onrender.com",
