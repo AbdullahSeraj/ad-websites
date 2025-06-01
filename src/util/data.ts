@@ -1,5 +1,29 @@
 export const projects = [
     {
+        title: "Empower Your Business with Cutting-Edge Digital Solutions",
+        text: "We create custom websites, mobile apps, and software solutions to help businesses grow, innovate, and succeed in the digital world.",
+        img: "/imgs/21.png",
+        category: "js",
+        githubUrl: "https://github.com/AbdullahSeraj",
+        website: "https://technology-ndj6.onrender.com",
+    },
+    {
+        title: "Property Management & General Maintenance",
+        text: "Emergencies don’t wait. Our team is available 24/7 to resolve urgent maintenance issues promptly and professionally.",
+        img: "/imgs/20.png",
+        category: "js",
+        githubUrl: "https://github.com/AbdullahSeraj",
+        website: "https://property-management-uv0v.onrender.com",
+    },
+    {
+        title: "Delivery Landing Page",
+        text: "From local drop-offs to inter-emirate deliveries, we offer on-time service, competitive pricing, and exceptional care for every package — anytime, anywhere.",
+        img: "/imgs/19.png",
+        category: "js",
+        githubUrl: "https://github.com/AbdullahSeraj",
+        website: "https://delivery-h0hq.onrender.com",
+    },
+    {
         title: "Legal Practice Management Dashboard",
         text: "This project is a comprehensive law firm management system designed to streamline legal operations, case tracking, client management, and financial reporting.",
         img: "imgs/18.jpg",
@@ -149,4 +173,5 @@ export const projects = [
         githubUrl: "https://github.com/AbdullahSeraj/Wealthome-Website",
         website: "https://abdullahseraj.github.io/Wealthome-Website/",
     },
+
 ];
